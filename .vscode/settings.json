@@ -1,0 +1,18 @@
+{
+    
+        "folders": [],
+        "settings": {
+            "emmet.includeLanguages": {
+               "javascript": "javascriptreact",
+               "editor.defaultFormatter": "esbenp.prettier-vscode",
+               "editor.formatOnSave": true,
+               "editor.codeActionsOnSave": {
+                 "source.fixAll.eslint": true
+            }
+        },
+"prettier.tabWidth": 4,
+"prettier.eslintIntegration": true,
+"prettier.stylelintIntegration": true,
+"editor.formatOnSave": true
+}
+}
